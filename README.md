@@ -1,2 +1,8 @@
-# React-Lottery-Game
-Excited to share my latest project built with React: the Lottery Game! This web application allows users to simulate lottery draws with random number generation. I implemented key React concepts like components, props, events, and state to manage user interactions and data flow. A great experience in building dynamic interfaces! 
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
